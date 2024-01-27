@@ -1,4 +1,4 @@
-# Python Virtual Assistant
+# APP OPNER FULLY AUTOMATIC
 
 This Python script serves as a virtual assistant that responds to voice commands to open various software applications. It utilizes speech recognition, text-to-speech, and system commands to provide a hands-free interaction experience.
 
@@ -21,7 +21,7 @@ Ensure a working microphone is connected to your system.
 Run the script:
 
 ```bash
-python virtual_assistant.py
+APP OPNER FULLY AUTOMATIC.py
 ```
 Follow the on-screen instructions to select the assistant's gender and command the opening of software applications.
 
